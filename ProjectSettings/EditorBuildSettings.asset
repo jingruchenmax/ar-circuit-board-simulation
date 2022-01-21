@@ -1,0 +1,14 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/BreadBoard.unity
+    guid: bc75acbd25d73ae459557219f7b96c27
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 24782c87a158c614797333de5035d3a4, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 94ebe712b1bd79d429282e456a135986, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: ce3c33af5b8873f4d934f683238f02d0, type: 2}
